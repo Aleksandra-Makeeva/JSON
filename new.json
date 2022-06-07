@@ -1,7 +1,9 @@
 {
-"ФИО" : "Макеева Александра Сергеевна", 
-"возраст" : 29, 
-"количество домашних животных" : 1, 
-"будущая желаемая зарплата" : 50000
+"First name" : "Aleksandra",
+"Last name" : "Makeeva",
+"Patronymic" : "Sergeevna",
+"Age" : 29,               
+"Number of pets" : 1,              
+"Future desired salary" : 50000
 }
 
